@@ -11,9 +11,9 @@ The 2 items above are not owned by me, They go to there respected owners
     --background: url('https://images.alphacoders.com/632/632525.png');
     --activetext-colour: white;
 
-    --primary1-colour: red;
-    --primary2-colour: rgba(255,0,0,0.5);
-    --primary3-colour: rgba(100,0,0,0.6);
+    --primary1-colour: rgb(0, 245, 131);
+    --primary2-colour: rgba(0, 230, 142, 0.5);
+    --primary3-colour: rgba(0, 100, 75, 0.6);
 
     --secondary1-colour: rgba(50,50,50,0.3);
     --secondary2-colour: rgba(100,100,100,0.5);
